@@ -1,0 +1,2 @@
+origin	git@github.com:Ahmad-Alaziz/PJATK_GIT_REPO.git (fetch)
+origin	git@github.com:Ahmad-Alaziz/PJATK_GIT_REPO.git (push)
