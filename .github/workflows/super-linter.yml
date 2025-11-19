@@ -9,6 +9,9 @@ on:
 jobs:
   lint:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      statuses: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -18,3 +21,6 @@ jobs:
         env:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FILTER_REGEX_EXCLUDE: '(Hello-World/.*)'
+          JSCPD_EXCLUDE: '(Hello-World/.*)'
+          CHECKOV_EXCLUDE: '(Hello-World/.*)'
