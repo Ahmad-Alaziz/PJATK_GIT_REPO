@@ -1,0 +1,42 @@
+de49ef5 HEAD@{0}: commit: chore: capture history after hard reset for GIT_9
+91e8118 HEAD@{1}: reset: moving to HEAD~1
+9018e81 HEAD@{2}: commit: chore: capture history before hard reset for GIT_9
+91e8118 HEAD@{3}: checkout: moving from main to main
+91e8118 HEAD@{4}: commit: chore: document cherry-pick result on main for GIT_8
+4c89c78 HEAD@{5}: cherry-pick: chore: record test branch graph for GIT_8 cherry-pick
+738890c HEAD@{6}: checkout: moving from test to main
+f3a5f5d HEAD@{7}: commit: chore: record test branch graph for GIT_8 cherry-pick
+93a00ed HEAD@{8}: checkout: moving from main to test
+738890c HEAD@{9}: commit: chore: document rebase result for GIT_8
+0c24dd8 HEAD@{10}: commit (amend): chore: capture repo state for GIT_8 before rebase
+67e5d01 HEAD@{11}: rebase (abort): returning to refs/heads/main
+209800b HEAD@{12}: commit: chore: document cherry-pick result on main for GIT_8
+5b30e8b HEAD@{13}: commit: chore: record test branch graph for GIT_8 cherry-pick
+e850dca HEAD@{14}: commit: chore: document rebase result for GIT_8
+1825653 HEAD@{15}: rebase (start): checkout HEAD~2
+67e5d01 HEAD@{16}: commit: chore: capture repo state for GIT_8 before rebase
+1825653 HEAD@{17}: commit: chore: restore stashed branch and status files for GIT_8
+caadb4c HEAD@{18}: merge test: Merge made by the 'ort' strategy.
+ab48209 HEAD@{19}: checkout: moving from test to main
+93a00ed HEAD@{20}: commit: chore: capture diff between last commits on test for GIT_8
+3b4ddb4 HEAD@{21}: commit: chore: capture log on test branch for GIT_8
+bc21904 HEAD@{22}: checkout: moving from main to test
+ab48209 HEAD@{23}: commit: chore: record initial stash list for GIT_8
+49be226 HEAD@{24}: reset: moving to HEAD
+49be226 HEAD@{25}: checkout: moving from main to main
+49be226 HEAD@{26}: commit: chore: record branch history graph for GIT_7
+a20711c HEAD@{27}: commit (merge): merge: resolve README conflict between main and test for GIT_7
+190b619 HEAD@{28}: checkout: moving from test to main
+bc21904 HEAD@{29}: commit: docs: intentionally create conflict on test branch for GIT_7
+7e69cab HEAD@{30}: checkout: moving from main to test
+190b619 HEAD@{31}: commit: docs: add note about branching and conflicts on main
+4223487 HEAD@{32}: checkout: moving from test to main
+7e69cab HEAD@{33}: commit: chore: add basic repo snapshots on test branch for GIT_7
+4223487 HEAD@{34}: checkout: moving from main to test
+4223487 HEAD@{35}: checkout: moving from main to main
+4223487 HEAD@{36}: commit: chore: capture log and show outputs for GIT_6
+06d3fbe HEAD@{37}: commit: docs: document interpretation of git diff for GIT_5
+3e54477 HEAD@{38}: commit: docs: add initial project README for GIT exercises
+d5eaf68 HEAD@{39}: commit: chore: demonstrate status and restore flows for GIT_4
+d7969f8 HEAD@{40}: commit: chore: record initial git status outputs for GIT_4
+cc84d2d HEAD@{41}: commit (initial): docs: add git version and initial idea files for GIT_4
