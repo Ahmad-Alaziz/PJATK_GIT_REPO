@@ -2,5 +2,8 @@ Repository: `PJATK_GIT_REPO`
 Author: Ahmad Alaziz
 Student ID: PD5231
 
+<<<<<<< HEAD
 Praca z gałęziami i rozwiązywanie konfliktów.
+=======
 Tym wpisem chcemy spowodować konflikt.
+>>>>>>> test
