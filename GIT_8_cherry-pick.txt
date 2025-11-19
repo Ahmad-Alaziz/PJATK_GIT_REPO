@@ -1,0 +1,10 @@
+* 93a00ed chore: capture diff between last commits on test for GIT_8
+* 3b4ddb4 chore: capture log on test branch for GIT_8
+* bc21904 docs: intentionally create conflict on test branch for GIT_7
+* 7e69cab chore: add basic repo snapshots on test branch for GIT_7
+* 4223487 chore: capture log and show outputs for GIT_6
+* 06d3fbe docs: document interpretation of git diff for GIT_5
+* 3e54477 docs: add initial project README for GIT exercises
+* d5eaf68 chore: demonstrate status and restore flows for GIT_4
+* d7969f8 chore: record initial git status outputs for GIT_4
+* cc84d2d docs: add git version and initial idea files for GIT_4
