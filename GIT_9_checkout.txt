@@ -1,0 +1,127 @@
+commit 9018e81f1b7385f0adc204ec496baf4710286950
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:03:24 2025 +0100
+
+    chore: capture history before hard reset for GIT_9
+
+commit 91e811823f9fcefea82e76958ff4c5b71387daa5
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:03:17 2025 +0100
+
+    chore: document cherry-pick result on main for GIT_8
+
+commit 4c89c7885840f9ec2d0216b063ebdd47fe3ebe1f
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:03:15 2025 +0100
+
+    chore: record test branch graph for GIT_8 cherry-pick
+
+commit 738890cda3670b97e108822da5a80b91e33891a0
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:03:13 2025 +0100
+
+    chore: document rebase result for GIT_8
+
+commit 0c24dd8d6e3a98ae217ec978b903a7aa022955ac
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:02:55 2025 +0100
+
+    chore: capture repo state for GIT_8 before rebase
+
+commit 18256530d57722fe2771e88ab863281d8b92f1d0
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:02:55 2025 +0100
+
+    chore: restore stashed branch and status files for GIT_8
+
+commit caadb4caeea55863493569fab06038b44b163728
+Merge: ab48209 93a00ed
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:02:53 2025 +0100
+
+    merge: integrate test branch changes for GIT_8
+
+commit 93a00ed536790f76ed64152915b1e8a70a6d87ab
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:02:52 2025 +0100
+
+    chore: capture diff between last commits on test for GIT_8
+
+commit 3b4ddb4ee918a5da5c59089f4e78e9cbceee77bf
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:02:51 2025 +0100
+
+    chore: capture log on test branch for GIT_8
+
+commit ab48209fec6fe0fed607946a9c40148ec3d57d44
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:02:50 2025 +0100
+
+    chore: record initial stash list for GIT_8
+
+commit 49be226deef9bd3900e4a0932769b656a5c9a31d
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:02:44 2025 +0100
+
+    chore: record branch history graph for GIT_7
+
+commit a20711c15b17414fa6a46e2489f810588fb5dd82
+Merge: 190b619 bc21904
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:02:42 2025 +0100
+
+    merge: resolve README conflict between main and test for GIT_7
+
+commit bc2190454a326f4052950bf734a7d24f3b8e853b
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:02:35 2025 +0100
+
+    docs: intentionally create conflict on test branch for GIT_7
+
+commit 190b619092102c9ebe4aa6c9c495a03c710daf42
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:02:32 2025 +0100
+
+    docs: add note about branching and conflicts on main
+
+commit 7e69cabf3b5b0783d505e6b0d780e07a3dfc0d68
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:02:25 2025 +0100
+
+    chore: add basic repo snapshots on test branch for GIT_7
+
+commit 4223487a02e8ee206aa8464364a88f31b2a028e1
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:02:17 2025 +0100
+
+    chore: capture log and show outputs for GIT_6
+
+commit 06d3fbe6833d97b6b8513e6de72027aa3412ce5f
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:02:11 2025 +0100
+
+    docs: document interpretation of git diff for GIT_5
+
+commit 3e544773d1ae8f12e98522b28a1d65cfa66fc05b
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 21:58:32 2025 +0100
+
+    docs: add initial project README for GIT exercises
+
+commit d5eaf680b34c282d87285e4cbc0739abc46c6282
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 21:57:11 2025 +0100
+
+    chore: demonstrate status and restore flows for GIT_4
+
+commit d7969f853bc9076f5b2ed6bf33944d4b24685130
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 21:55:29 2025 +0100
+
+    chore: record initial git status outputs for GIT_4
+
+commit cc84d2daa91951b31a820ccce18242054e04cb9d
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 21:55:04 2025 +0100
+
+    docs: add git version and initial idea files for GIT_4
