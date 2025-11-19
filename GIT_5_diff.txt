@@ -1,0 +1,25 @@
+GIT_5 – Understanding git diff output
+
+Explanation of the example diff:
+
+- Lines starting with '-' show content removed from the old version.
+- Lines starting with '+' show new content added in the new version.
+- Unprefixed lines show unchanged context that helps understand where the changes occurred.
+- The @@ -start,len +start,len @@ header indicates which line ranges differ between the old and new versions.
+  - The first part (-start,len) shows the starting line and number of lines in the old file.
+  - The second part (+start,len) shows the starting line and number of lines in the new file.
+
+Example interpretation:
+If you see:
+@@ -5,3 +5,4 @@
+- old line content
+  unchanged context line
++ new line content
+
+This means:
+- Starting at line 5, the old version had 3 lines total in this section
+- Starting at line 5, the new version has 4 lines total in this section
+- One line was removed (marked with -)
+- One line was added (marked with +)
+- The context line remained unchanged
+
