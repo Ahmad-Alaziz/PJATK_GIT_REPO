@@ -1,0 +1,20 @@
+* 0c24dd8 chore: capture repo state for GIT_8 before rebase
+* 1825653 chore: restore stashed branch and status files for GIT_8
+*   caadb4c merge: integrate test branch changes for GIT_8
+|\  
+| * 93a00ed chore: capture diff between last commits on test for GIT_8
+| * 3b4ddb4 chore: capture log on test branch for GIT_8
+* | ab48209 chore: record initial stash list for GIT_8
+* | 49be226 chore: record branch history graph for GIT_7
+* | a20711c merge: resolve README conflict between main and test for GIT_7
+|\| 
+| * bc21904 docs: intentionally create conflict on test branch for GIT_7
+| * 7e69cab chore: add basic repo snapshots on test branch for GIT_7
+* | 190b619 docs: add note about branching and conflicts on main
+|/  
+* 4223487 chore: capture log and show outputs for GIT_6
+* 06d3fbe docs: document interpretation of git diff for GIT_5
+* 3e54477 docs: add initial project README for GIT exercises
+* d5eaf68 chore: demonstrate status and restore flows for GIT_4
+* d7969f8 chore: record initial git status outputs for GIT_4
+* cc84d2d docs: add git version and initial idea files for GIT_4
