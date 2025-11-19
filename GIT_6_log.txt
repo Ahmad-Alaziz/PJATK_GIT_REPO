@@ -1,0 +1,29 @@
+commit 06d3fbe6833d97b6b8513e6de72027aa3412ce5f
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 22:02:11 2025 +0100
+
+    docs: document interpretation of git diff for GIT_5
+
+commit 3e544773d1ae8f12e98522b28a1d65cfa66fc05b
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 21:58:32 2025 +0100
+
+    docs: add initial project README for GIT exercises
+
+commit d5eaf680b34c282d87285e4cbc0739abc46c6282
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 21:57:11 2025 +0100
+
+    chore: demonstrate status and restore flows for GIT_4
+
+commit d7969f853bc9076f5b2ed6bf33944d4b24685130
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 21:55:29 2025 +0100
+
+    chore: record initial git status outputs for GIT_4
+
+commit cc84d2daa91951b31a820ccce18242054e04cb9d
+Author: Ahmad Alaziz <aha.k.aziz@gmail.com>
+Date:   Wed Nov 19 21:55:04 2025 +0100
+
+    docs: add git version and initial idea files for GIT_4
